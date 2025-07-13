@@ -65,7 +65,7 @@ Pytest va a detectar automáticamente los tests en la carpeta `tests` y correrlo
 
 ## Tecnologías usadas
 
-- Python 3.x  
+- Python  
 - Selenium  
 - Pytest  
 - WebDriver Manager  
